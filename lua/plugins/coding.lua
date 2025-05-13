@@ -4,6 +4,7 @@ return {
     opts = {
       keymap = {
         preset = "super-tab",
+        ["<CR>"] = { "accept", "fallback" },
       },
     },
   },
