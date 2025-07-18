@@ -6,3 +6,4 @@ local opt = vim.opt
 
 opt.list = false
 opt.conceallevel = 0
+opt.relativenumber = false
